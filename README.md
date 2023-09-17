@@ -1,2 +1,2 @@
 # Python
-Clase Python para Data Science, uso de seaborn
+Clase Python para Data Science,  contiene las practicas de seaborn
